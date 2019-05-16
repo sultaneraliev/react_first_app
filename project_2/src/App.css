@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  
+}
+*{
+  box-sizing: border-box;
+}
+.list{
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  height: 80vh;
+  align-items: center;
+}
+.card-item{
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  
+}
+img{
+  width: 250px;
+  height:250px;
+}
+.h1{
+  display: flex;
+  justify-content: flex-start;
+}
